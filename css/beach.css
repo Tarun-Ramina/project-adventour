@@ -1,0 +1,288 @@
+body{
+    margin: 0;
+}
+.website-name{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 1%;
+    background-color: white;
+}
+
+ul{
+    margin: 0;
+    background-color: rgb(255, 229, 0);
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+    padding: 1%;
+    padding-left: 8%;
+    font-size: 20px;
+    font-family: monospace;
+    transition: 1s;
+}
+a{
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.main-body-img{
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-right: 66px;
+}
+.north-goa-tag{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.north-goa-tag-para{
+    font-family: monospace;
+    font-size:15px;
+    margin-left: 80px;
+    margin-top: 30px;
+    
+}
+.beach-collage{
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+
+.beach1{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.beach1box{
+    height: 38vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .beach1-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.calangute-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.beach2{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.beach2box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.beach2-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.baga-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.beach3{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.beach3box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.beach3-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.anjuna-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.beach4{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.beach4box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.beach4-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.candolim-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.beach5{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.beach5box{
+    height: 42vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.beach5-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.vagator-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.beach6{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.beach6box{
+    height: 42vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.beach6-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.arambol-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.also-read{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 70px;
+    text-align: center;
+}
+.also-read-flex{
+    height: 48vh;
+    width: 190vh;
+    margin-left: 80px;    
+    margin-top: 20px;
+    /* background-color: blue; */
+    display: flex;
+}
+.also-read-south{
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 800;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.readmore{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 30px;
+    margin-left: 80px;
+    transition: transform 1s;
+}
+.readmore:hover{
+    transform: scale(1.1);
+}
+.readmore-word{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: rgb(255, 229, 0);
+}
+ a{
+    text-decoration: none;
+} 
+
+footer{
+    background-color: rgba(255, 230, 0, 0.76);
+    height: 30vh;
+    width: 98.7vw;
+}
+.footer-img{
+    border-bottom: 1px solid;
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
+.social{
+    margin-top: -64px;
+    margin-left: 1100px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}

@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+}
+.website-name{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 1%;
+    background-color: white;
+}
+ul{
+    margin: 0;
+    background-color: rgb(255, 229, 0);
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+    padding: 1%;
+    padding-left: 8%;
+    font-size: 20px;
+    font-family: monospace;
+    transition: 1s;
+}
+a{
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+.goa-para1{
+    color: rgb(255, 229, 0);
+    font-family: monospace;
+    font-size: 200px;
+    margin-left: 10vw;
+    margin-top: 5vw;
+    border-left: 5px solid black;
+    padding-left: 1%;
+}
+.goa-para1-1{
+    color: black;
+    font-family: monospace;
+    font-size: 40px;
+    margin-left: 20px;
+    border-left: 5px solid black;
+    padding-left: 1%;
+    margin-left: 10vw;
+}
+
+.goa-para1-2{
+    color: black;
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: 160px;
+    text-align: justify;
+}
+.goa-para2{
+    color: black;
+    font-family: monospace;
+    font-size: 40px;
+    border-left: 5px solid black;
+    padding-left: 1%;
+    margin-left: 130;
+}
+.goa-para2-1{
+    color: black;
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: 160px;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.flex{
+    height: 54vh;
+    width: 98.7vw;
+    /* background-color: blue; */
+    display: flex;
+}
+.goa-img-1{
+    height: 41vh;
+    width: 35vw;
+    margin: 1vw;
+    background-repeat: no-repeat;
+    /* background-color: brown; */
+}
+.goa-para-3{
+    height: 27vh;
+    width: 50vw;
+    /* background-color: brown; */
+    margin: 1vw;
+    font-family: monospace;
+    font-size: 1.2vw;
+    margin-top: 3vw;
+    border-left: 0.3vw solid black;
+    padding-left: 1vw;
+}
+
+
+.goa-img-2{
+ margin-left: 80;
+}
+.climate{
+    font-size: 30px;
+    font-family: monospace;
+    margin-left: 130px;
+    font-weight: 800;
+}
+.climate-para{
+    color: black;
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: 160px;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.flex2{
+    height: 54vh;
+    width: 98.7vw;
+    /* background-color: blue; */
+    display: flex;
+}
+.goa-calling{
+    height: 47vh;
+    width: 30vw;
+    /* background-color: brown; */
+    margin-left: 80px;
+    background-repeat: no-repeat;
+}
+.goa-para4{
+    height: 25vh;
+    width:40vw;
+    /* background-color: brown; */
+    font-family: monospace;
+    font-size: 3vw;
+    text-align: end;
+    margin-top: 5vw;
+    border-right: 0.5vw solid black;
+    padding-right: 1vw;
+}
+.get-there{
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: 800;
+    text-align: center;
+    /* border-bottom: 1px solid; */
+}
+.travel{
+    height: 65vh;
+    width: 98.7vw;
+    /* background-color: blue; */
+    display: flex;
+}
+.travel1{
+    height: 60vh;
+    width: 20vw;
+    /* background-color: white; */
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.travel2{
+    height: 60vh;
+    width: 20vw;
+    /* background-color: aqua; */
+    margin-top: 1%;
+    margin-left: 10%;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.travel3{
+    height: 60vh;
+    width: 20vw;
+    /* background-color: aqua; */
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+
+
+footer{
+    background-color: rgba(255, 230, 0, 0.76);
+    height: 30vh;
+    width: 98.7vw;
+}
+.footer-img{
+    border-bottom: 1px solid;
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
+.social{
+    margin-top: -64px;
+    margin-left: 1100px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}

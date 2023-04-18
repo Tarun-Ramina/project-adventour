@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+}
+.website-name{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 1%;
+    background-color: white;
+}
+.img{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.blackback{
+    height: 78.6vh;
+    width: 87.8vw;
+    background-color: rgba(0, 0, 0, 0.521);
+    margin-left: 80px;
+    margin-top: -500px;
+    position: absolute;
+}
+.beach{
+    position: absolute;
+    font-size: 100px;
+    font-family: monospace;
+    font-weight: 800;
+    color: white;
+    margin-left: 440px;
+    margin-top: 210px;
+}
+
+.img2{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.blackback2{
+    height: 94.5vh;
+    width: 87.8vw;
+    background-color: rgba(0, 0, 0, 0.582);
+    margin-left: 80px;
+    margin-top: -600px;
+    position: absolute;
+}
+.church{
+    position: absolute;
+    font-size: 80px;
+    font-family: monospace;
+    font-weight: 800;
+    color: white;
+    margin-left: 300px;
+    margin-top: 290px;
+}
+
+.img3{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.blackback3{
+    height: 94.5vh;
+    width: 87.8vw;
+    background-color: rgba(0, 0, 0, 0.356);
+    margin-left: 80px;
+    margin-top: -600px;
+    position: absolute;
+}
+.food{
+    position: absolute;
+    font-size: 80px;
+    font-family: monospace;
+    font-weight: 800;
+    color: white;
+    margin-left: 250px;
+    margin-top: 290px;
+}
+
+.img4{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.blackback3{
+    height: 94.5vh;
+    width: 87.8vw;
+    background-color: rgba(0, 0, 0, 0.356);
+    margin-left: 80px;
+    margin-top: -600px;
+    position: absolute;
+}
+.food{
+    position: absolute;
+    font-size: 80px;
+    font-family: monospace;
+    font-weight: 800;
+    color: white;
+    margin-left: 350px;
+    margin-top: 290px;
+}
+
+.img5{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.blackback3{
+    height: 94.5vh;
+    width: 87.8vw;
+    background-color: rgba(0, 0, 0, 0.356);
+    margin-left: 80px;
+    margin-top: -600px;
+    position: absolute;
+}
+.food{
+    position: absolute;
+    font-size: 80px;
+    font-family: monospace;
+    font-weight: 800;
+    color: white;
+    margin-left: 350px;
+    margin-top: 290px;
+}

@@ -1,0 +1,268 @@
+body{
+    margin: 0;
+}
+.website-name{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 1%;
+    background-color: white;
+}
+
+ul{
+    margin: 0;
+    background-color: rgb(255, 229, 0);
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+    padding: 1%;
+    padding-left: 8%;
+    font-size: 20px;
+    font-family: monospace;
+    transition: 1s;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+.main-body-img{
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-right: 66px;
+    border: 2px solid rgb(255, 229, 0);
+}
+.south-goa-tag{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.south-goa-tag-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-left: 80px;
+    margin-top: 30px;
+    
+}
+.south-beach-collage{
+    margin-left: 190px;
+    margin-top: 70px;
+    margin-right: 66px;
+    /* border: 2px solid rgb(255, 229, 0); */
+}
+.south-beach1{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.south-beach1box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .south-beach1-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.palolem-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+    border: 2px solid rgb(255, 229, 0);
+}
+.south-beach2{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.south-beach2box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.south-beach2-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.colva-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+    border: 2px solid rgb(255, 229, 0);
+}
+.south-beach3{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.south-beach3box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.south-beach3-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.benaulim-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+    border: 2px solid rgb(255, 229, 0);
+}
+
+.south-beach4{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.south-beach4box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.south-beach4-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.agonda-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+    border: 2px solid rgb(255, 229, 0);
+}
+
+.south-beach5{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.south-beach5box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+.south-beach5-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.varca-beach-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+    border: 2px solid rgb(255, 229, 0);
+}
+
+.also-read{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 70px;
+    text-align: center;
+}
+.also-read-flex{
+    height: 48vh;
+    width: 190vh;
+    margin-left: 80px;    
+    margin-top: 20px;
+    /* background-color: blue; */
+    display: flex;
+}
+.also-read-church{
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 800;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.readmore{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 30px;
+    margin-left: 80px;
+    transition: transform 1s;
+}
+.readmore:hover{
+    transform: scale(1.1);
+}
+.readmore-word{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: rgb(255, 229, 0);
+}
+a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: rgba(255, 230, 0, 0.76);
+    height: 30vh;
+    width: 98.7vw;
+}
+.footer-img{
+    border-bottom: 1px solid;
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
+.social{
+    margin-top: -64px;
+    margin-left: 1100px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
+
+
+

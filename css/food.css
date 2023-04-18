@@ -1,0 +1,316 @@
+body{
+    margin: 0;
+}
+.website-name{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 1%;
+    background-color: white;
+}
+
+ul{
+    margin: 0;
+    background-color: rgb(255, 229, 0);
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+    padding: 1%;
+    padding-left: 8%;
+    font-size: 20px;
+    font-family: monospace;
+    transition: 1s;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+.main-food-img{
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-right: 66px;
+}
+.food-tag{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.foodbox{
+    height: 45vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food1{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food1box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food1-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food1-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.food2{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food2box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food2-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food2-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.food3{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food3box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food3-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food3-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.food4{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food4box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food4-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food4-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.food5{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food5box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food5-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food5-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.food6{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food6box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food6-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food6-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.food7{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.food7box{
+    height: 20vh;
+    width: 88vw;
+    /* background-color: blue; */
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 66px;
+}
+ .food7-para{
+    font-family: monospace;
+    font-size:17px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.food7-img{
+    margin-left: 80px;
+    margin-right: 66px;
+    margin-top: 20px;
+}
+
+.also-read{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 70px;
+    text-align: center;
+}
+.also-read-flex{
+    height: 48vh;
+    width: 190vh;
+    margin-left: 80px;    
+    margin-top: 20px;
+    /* background-color: blue; */
+    display: flex;
+}
+.also-read-attraction{
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 800;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.readmore{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 30px;
+    margin-left: 80px;
+    transition: transform 1s;
+}
+.readmore:hover{
+    transform: scale(1.1);
+}
+.readmore-word{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 15px;
+    position: absolute;
+    background-color: rgb(255, 229, 0);
+}
+a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: rgba(255, 230, 0, 0.76);
+    height: 30vh;
+    width: 98.7vw;
+}
+.footer-img{
+    border-bottom: 1px solid;
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
+.social{
+    margin-top: -64px;
+    margin-left: 1100px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
